@@ -1,0 +1,10 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "c:\\Users\\Lucinka Moonlit\\OneDrive\\Skrivbord\\GIT_projects\\cpp-sha",
+            "binaryPath": "c:\\Users\\Lucinka Moonlit\\OneDrive\\Skrivbord\\GIT_projects\\cpp-sha\\my_program",
+            "binaryArgs": []
+        }
+    ]
+}
