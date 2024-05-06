@@ -7,7 +7,7 @@ OpenSSL library
 
 Installation:
 Clone the repository
-git clone https://github.com/your-username/random-string-hasher.git
+git clone https://github.com/QueenLucinka/random-string-hasher.git
 
 Compile the program:
 g++ main.cpp -o random_string_hasher -lcrypto
